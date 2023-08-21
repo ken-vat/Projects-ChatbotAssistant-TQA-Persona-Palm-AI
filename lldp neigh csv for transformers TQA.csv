@@ -1,0 +1,6 @@
+﻿remote_name,port_name,name,id,port,mgmt_ip,remote_mac
+NGCS-Switch,Port #1,enp3s0f1,1,1,192.168.1.13,ec:9a:74:bc:57:e0
+OGCS-Switch,net1,tap1,2,52:54:00:76:27:fc,192.168.0.1,52:54:00:76:27:fc
+,,,,,,
+Standard,,,,,,
+System name or remote name or device name,Remote port name or remote interface name ,Local port name,Local row id,Remote port ID or remote port MAC or PortID,Management address or management IP address or IP address,Chassis ID or MAC address or remote MAC or Chassis MAC

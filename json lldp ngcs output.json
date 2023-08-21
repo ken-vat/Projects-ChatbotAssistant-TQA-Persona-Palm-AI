@@ -1,0 +1,28 @@
+{
+  "lldp-status-neighbor": [
+    {
+      "remote_name": "NGCS-Switch",
+      "port_name": "Port #1",
+      "name": "enp3s0f1",
+      "id": 1,
+      "port": "1",
+      "mgmt_ip": [
+        "192.168.1.13"
+      ],
+      "remote_mac": "ec:9a:74:bc:57:e0"
+    },
+    {
+      "remote_name": "foobar.hostname",
+      "port_name": "net1",
+      "name": "tap1",
+      "id": 2,
+      "port": "52:54:00:76:27:fc",
+      "mgmt_ip": [
+        "192.168.0.1",
+        "fe80::5054:ff:fe76:27fc"
+      ],
+      "remote_mac": "52:54:00:76:27:fc"
+    }
+  ]
+}
+

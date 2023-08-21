@@ -1,0 +1,5 @@
+﻿vendor,model,status
+cisco,7200,off
+juniper,7000,on
+arista,6000,off
+arista,8000,on
